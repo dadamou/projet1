@@ -26,7 +26,7 @@
     "mode_ads_interstitial" : "mopub",
     "mode_ads_native" : "mopub",
     "mode_ads_rewarded" : "mopub",
-    "one_signal_app_id" : "52851292-28a9-4957-b844-1ad28b34a5f2",
+    "one_signal_app_id" : "97dedb9c-ea6b-48bc-b436-1c005949c69c",
 
     "update" : {
       "enable_update_closed" : true,
