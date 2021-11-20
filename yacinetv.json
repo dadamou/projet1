@@ -2,10 +2,10 @@
   "config" : {
     "admob" : {
       "admob_unit_id" : "",
-      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
       "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
-      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917"
+      "admob_rewarded_id" : ""
     },
     
     "max" : {
@@ -22,11 +22,11 @@
       "mopub_rewarded_id" : "920b6145fb1546cf8b5cf2ac34638bb7"
     },
     
-    "mode_ads_banner" : "mopub",
-    "mode_ads_interstitial" : "mopub",
-    "mode_ads_native" : "mopub",
-    "mode_ads_rewarded" : "mopub",
-    "one_signal_app_id" : "dde5af85-b57a-45df-a15e-4c7a6fab4d48",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "admob",
+    "mode_ads_native" : "admob",
+    "mode_ads_rewarded" : "admob",
+    "one_signal_app_id" : "ca991988-439e-48a9-b14f-04a3ba8cf7d9",
 
     "update" : {
       "enable_update_closed" : true,
