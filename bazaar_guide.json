@@ -52,13 +52,13 @@
 
       },
       "local_offer" : {
-        "local_offer_state" : true
+        "local_offer_state" : false
       }
 	},
 	
 	"best_offers_activity" : {
 	    "ogads_app_install_state" : false,
-	    "local_offer_state" : true
+	    "local_offer_state" : false
 	}
   },
   "apps" : [
@@ -89,42 +89,35 @@
       "payout":"1.10",
       "appCountry":"all"
     }
-  ],
+   ],
   "tips" : [
       {
       "id" : 0,
       "imageURL" : "http://youuffo.com/data/photo/tips",
       "state" : "free",
-      "title" : "Step1:",
-      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the App."
+      "title" : "Informaitions :",
+      "written" : "Thank you for downloading our guide that will help you to know everything about your favorite application. This guide will provide you some tips to know how to get the application on your device and how to use it easily."
     },
     {
       "id" : 1,
       "imageURL" : "http://youuffo.com/data/photo/tips",
       "state" : "free",
-      "title" : "Step2:",
-      "written" : "Choose the skin via the floating window. You can also try the skins from the store. We will remember your choices and you can see them after you return to the lobby."
+      "title" : "SURPRISE!",
+      "written" : "D'ont worry this guide is not only for reading but will helpyou to download your app and install it on your device."
     },
     {
       "id" : 2,
       "imageURL" : "http://youuffo.com/data/photo/tips",
       "state" : "free",
-      "title" : "Step3:",
-      "written" : "Enter the battle, then you can see the skins1010In addition."
+      "title" : "RECOMMENDATION!:",
+      "written" : "Read the tips before using this option, to know how to use it."
     },
     {
       "id" : 3,
       "imageURL" : "http://youuffo.com/data/photo/tips",
       "state" : "free",
-      "title" : "Step4:",
-      "written" : "More function: You can also change the crosshair when you enter the battlefield.1010The."
-    },
-    {
-      "id" : 4,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
-      "state" : "vip",
-      "title" : "Step5:",
-      "written" : "Make sure you've downloaded the resources in the game's download center, then download and open the Nicoo App. Click the button above to start Free Fire.1010Likewise, Nicoo also allows you to make changes to the scope of Free Fire ."
+      "title" : "Review APP:",
+      "written" : "MPLEASE! Get a moment to give us a review on the store about your favorite app."
     }
   ]
 }
