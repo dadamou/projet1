@@ -95,29 +95,15 @@
       "id" : 0,
       "imageURL" : "http://youuffo.com/data/photo/tips",
       "state" : "free",
-      "title" : "Informaitions :",
+      "title" : "tips 1",
       "written" : "Thank you for downloading our guide that will help you to know everything about your favorite application. This guide will provide you some tips to know how to get the application on your device and how to use it easily."
     },
     {
       "id" : 1,
       "imageURL" : "http://youuffo.com/data/photo/tips",
       "state" : "free",
-      "title" : "SURPRISE!",
-      "written" : "D'ont worry this guide is not only for reading but will helpyou to download your app and install it on your device."
-    },
-    {
-      "id" : 2,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
-      "state" : "free",
-      "title" : "RECOMMENDATION!:",
-      "written" : "Read the tips before using this option, to know how to use it."
-    },
-    {
-      "id" : 3,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
-      "state" : "free",
-      "title" : "Review APP:",
-      "written" : "MPLEASE! Get a moment to give us a review on the store about your favorite app."
+      "title" : "tips 2",
+      "written" : "Thank you for downloading our guide that will help you to know everything about your favorite application. This guide will provide you some tips to know how to get the application on your device and how to use it easily."
     }
   ]
 }
