@@ -58,7 +58,7 @@
 	
 	"best_offers_activity" : {
 	    "ogads_app_install_state" : false,
-	    "local_offer_state" : false
+	    "local_offer_state" : true
 	}
   },
   "apps" : [
@@ -69,7 +69,7 @@
       "appUrl":"https://www.google.com/",
       "appState":true,
       "payout":"1.20",
-      "appCountry":"all"
+      "appCountry":"MA"
       },
       {
       "id":"53173336",
@@ -78,7 +78,7 @@
       "appUrl":"https://www.google.com/",
       "appState":true,
       "payout":"1.10",
-      "appCountry":"all"
+      "appCountry":"US"
     },
     {
       "id":"53173336",
