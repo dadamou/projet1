@@ -1,109 +1,209 @@
 {
-  "config" : {
-    "admob" : {
-      "admob_unit_id" : "",
-      "admob_banner_id" : "",
-      "admob_interstitial_id" : "",
-      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
-      "admob_rewarded_id" : ""
+  "json object": {
+    "data": {
+      "mopub initialize id": "920b6145fb1546cf8b5cf2ac34638bb7",
+      "mopub banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub native": "11a17b188668469fb0412708c3d16813",
+      "mopub interstitial": "24534e1901884e398f1253216226017e",
+      "mopub rewarded": "920b6145fb1546cf8b5cf2ac34638bb7",
+	  
+      "tapdaq banner": "default",
+      "tapdaq native": "default",
+      "tapdaq interstitial": "default",
+      "tapdaq rewarded": "default",
+      "tapdaq app key": "61182d0386c31c4e07c109a0",
+      "tapdaq client key": "7c263146-7e2b-4a30-b721-0e9dae35904f",
+	  
+      "admob banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob native": "ca-app-pub-3940256099942544/2247696110",
+      "admob interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "admob rewarded": "ca-app-pub-3940256099942544/5224354917",
+	  
+      "ironsource interstitial": "DefaultInterstitial",
+      "ironsource banner": "DefaultBanner",
+      "ironsource rewarded": "DefaultRewardedVideo",
+      "ironsource app key": "10418ab31",
+	  
+      "unity interstitial": "Interstitial_Android",
+      "unity banner": "Banner_Android",
+      "unity rewarded": "Rewarded_Android",
+      "unity app id": "4305873",
+	  
+      "facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  
+	  "applovin banner": "13482be8f771efc7",
+      "applovin interstitial": "37c0fd7e2939a3be",
+      "applovin rewarded": "6405227d47f8fe55",
+	  
+      "start Activity Inter": ".",
+      "start Activity Native": "facebook",
+      "start Activity Banner": ".",
+	  
+      "data Activity Inter": ".",
+      "data Activity Native": ".",
+      "data Activity Banner": ".",
+      "data Activity Rewarded": ".",
+	  
+      "guide Activity Banner": ".",
+      "guide Activity Native": "facebook",
+	  
+      "clicks to show ad in list": "3",
+      "ad position in list": "4",
+	  
+      "show faces rate dialog": "false",
+      "show faces rate": "false",
+	  
+      "clicks to stop showing banner ad": "1",
+      "time unit banner": "minute",
+      "time banner": "1",
+	  
+      "clicks to stop showing native ad": "1",
+      "time unit native": "second",
+      "time native": "40",
+	  
+      "show CPA": "false",
+      "CPA image": "https://dadamou.github.io/poppy/cpa.png",
+      "CPA URL": "https://smrturl.co/a041404",
+	  
+      "is app suspended": "false",
+      "update title": "A new update for this app",
+      "update message": "Update this app because this version has some issues PLEASE!Get a moment to Update the app and a review on the store about your favorite app.",
+      "update URL": "https://smrturl.co/a041404"
     },
-    
-    "max" : {
-      "max_banner_id" : "",
-      "max_interstitial_id" : "",
-      "max_native_id" : "",
-      "max_rewarded_id" : ""
-    },
-	
-	"mopub" : {
-      "mopub_banner_id" : "b195f8dd8ded45fe847ad89ed1d016da",
-      "mopub_interstitial_id" : "24534e1901884e398f1253216226017e",
-      "mopub_native_id" : "11a17b188668469fb0412708c3d16813",
-      "mopub_rewarded_id" : "920b6145fb1546cf8b5cf2ac34638bb7"
-    },
-    
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
-    "mode_ads_native" : "admob",
-    "mode_ads_rewarded" : "admob",
-    "one_signal_app_id" : "ca991988-439e-48a9-b14f-04a3ba8cf7d9",
-
-    "update" : {
-      "enable_update_closed" : true,
-      "update_action" : "https://play.google.com/store/apps/details?id=",
-      "update_msg" : "Update To Now Version",
-      "update_state" : false,
-      "update_action_text" : "Update",
-      "update_title" : "Update Now!"
-    },
-	
-	"cpa_activity" : {
-	   "cpabuild" : {
-        "cpabuild_offer_state" : false,
-        "cpabuild_offer_user_id" : "",
-        "cpabuild_offer_api_key" : "",
-        "cpabuild_offer_type" : "all"
-
+    "items": [
+      {
+        "image": "https://dadamou.github.io/projet1/unnamed.jpg",
+        "title": "Common combat master Walkthrough App Problems and Troubleshooting Steps",
+        "guide": "Thank you for downloading our guide that will help you to know everything about your favorite application.PLEASE! Get a moment to give us a review on the store about your favorite app.",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "false",
+        "ID": "1",
+		
+        "show button": "true",
+        "button text": "Download",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
       },
-      "ogads" : {
-        "ogads_offer_state" : false,
-        "ogads_offer_user_id" : "",
-        "ogads_offer_type" : "all"
-
+      {
+        "image": "https://dadamou.github.io/projet1/unnamed.jpg",
+        "title": "I'm getting black screen / white screen (blank screen) when I open combat master?",
+        "guide": "<p>It is one of the most common problems in the android operating system. Usually, when you open an app, you will see a black screen for a few seconds and then the app will crash with or without an error message. There are a few ways to fix this problem.</p><p><br></p><p>Most of the time, it might be a temporary loading issue. You just need to press the recent applications menu (usually the first left button) on your phone. Then you close the app that has this issue. Now open the app again. It may work normally.</p><p>Try a Hard reboot on your Android mobile. Press and hold down the &quot;Home&quot; and &quot;Power&quot; buttons at the same time for up to 10 seconds. Then, release the buttons and hold down the &quot;Power&quot; button until the screen turns on. Now you can try opening the app, it may work fine.</p><p>If none of the above workings, you can wait till your phone battery drains and it turns off automatically. After that put it to charge, and press the power button. It may work after this.</p><p>Finally, if you can&apos;t fix it with anything, you may need to uninstall the app and re-install it. Android usually restores all settings after you re-install and log into the app. You can see if that fixes it.</p><p>Even in some rare cases, the re-install step also doesn&apos;t work. If that is your case, try installing older versions of the app. Good luck!</p>",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "false",
+        "ID": "2",
+		
+        "show button": "true",
+        "button text": "Download",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
       },
-      "local_offer" : {
-        "local_offer_state" : false
+      {
+        "image": "https://dadamou.github.io/projet1/unnamed.jpg",
+        "title": "My combat master app wont load or not working properly",
+        "guide": "<p>There are a few situations that may cause the load issue in mobile apps.</p><p><br></p><p>The combat master Walkthrough app server may be down and that is causing the loading issue. Please try after a few minutes.</p><p>Your wifi/mobile data connection not working properly. Please check your data connection.</p><p>Too many users using the app at the same time. Please try after a few minutes.</p>",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "false",
+        "ID": "3",
+		
+        "show button": "true",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
+       },
+      {
+        "image": "https://dadamou.github.io/projet1/unnamed.jpg",
+        "title": "I'm having combat master login issues or account-related issues.",
+        "guide": "<p>If you have a login or account-related issue, please check the following steps.</p<p><br></p><p>The My combat master server may be down and that is causing the login/account issue. Please try logging in after a few minutes.</p><p>Your wifi/mobile data connection not working properly. Please check your data connection.</p><p>You may be trying with the wrong login credentials. Please confirm the details that you are entering are correct.</p><p>If you&apos;re using third-party social networks to log in such as Facebook, Twitter, Google, etc, check whether that service is working properly by visiting their official website.</p><p>Your account may be banned or deactivated for activities. Please read error messages.</p>",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "false",
+        "ID": "4",
+		
+        "show button": "true",
+        "button text": "Download",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/projet1/unnamed.jpg",
+        "title": "combat master Walkthrough game level/lives are not updating or suddenly decreased.",
+        "guide": "As same as points, levels also get the same issue of concurrent users loads to the server. If too many players, playing at the same time, the server processes data slowly. It will slow down your level/lives updates or send your wrong level information. So please wait for some time and re-check again for your levels.",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "false",
+        "ID": "5",
+		
+        "show button": "true",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/projet1/unnamed.jpg",
+        "title": "I can't able to invite friends to combat master Walkthrough, request lives, or share points.",
+        "guide": "<p>To invite friends you may need to sync the app with your contacts or social networks such as Facebook, Twitter, etc. It may be slow sometimes as the app server needs to handle tons of data.</p><p>If this problem persists to you after waiting, you may contact the developer of combat master Walkthrough, using the above-mentioned email address. Briefly mention your problem and attach a few screenshots if possible. So they can help you quickly.</p>",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "false",
+        "ID": "6",
+		
+        "show button": "true",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
+      },
+       {
+        "image": "https://dadamou.github.io/projet1/unnamed.jpg",
+        "title": "Audio/video loading problem with Tips for My combat master.",
+        "guide": "<p>Check your phone volume if you have audio problems. Try to use headphones to find out whether it is an issue with your speakers or with the app.</p><p>If you&apos;ve got a video loading problem, please check your internet speed and wifi connectivity.</p>",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "false",
+        "ID": "7",
+		
+        "show button": "true",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/projet1/unnamed.jpg",
+        "title": "Tips for My combat master app Notifications are not working properly.",
+        "guide": "<p>Go to your Apps-&gt;Tips for My combat master-&gt;Notifications and check whether notifications are enabled or not. If it is not enabled, please enable it.</p><p>Also if you don&apos;t get notification alert sounds, re-verify that you don&apos;t accidentally mute the app notification sounds.</p>",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "false",
+        "ID": "8",
+		
+        "show button": "true",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/projet1/unnamed.jpg",
+        "title": "I deposited money into Tips for My combat master. But I don't see it added to my balance.",
+        "guide": "<p>It may take some time for the app company/developer to process the payment and credit to your account. Please be patient for 24-48 hours and see if the amount gets credited to your account. If not, please contact the development company using the contact details given below.</p>",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "false",
+        "ID": "9",
+		
+        "show button": "true",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/projet1/unnamed.jpg",
+        "title": "RECOMMENDATION!",
+        "guide": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p>",
+        "guide 2": "<p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "false",
+        "ID": "10",
+		
+        "show button": "true",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
       }
-	},
-	
-	"best_offers_activity" : {
-	    "ogads_app_install_state" : false,
-	    "local_offer_state" : false
-	}
-  },
-  "apps" : [
-    {
-      "id":"53173336",
-      "appName":"Test App",
-      "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
-      "appUrl":"https://www.google.com/",
-      "appState":true,
-      "payout":"1.20",
-      "appCountry":"all"
-      },
-      {
-      "id":"53173336",
-      "appName":"Test App",
-      "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
-      "appUrl":"https://www.google.com/",
-      "appState":true,
-      "payout":"1.10",
-      "appCountry":"all"
-    },
-    {
-      "id":"53173336",
-      "appName":"Test Offre",
-      "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
-      "appUrl":"https://www.google.com/",
-      "appState":true,
-      "payout":"1.10",
-      "appCountry":"all"
-    }
-  ],
-  "tips" : [
-      {
-      "id" : 0,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
-      "state" : "free",
-      "title" : "tips 1",
-      "written" : "Thank you for downloading our guide that will help you to know everything about your favorite application. This guide will provide you some tips to know how to get the application on your device and how to use it easily."
-    },
-    {
-      "id" : 1,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
-      "state" : "free",
-      "title" : "tips 2",
-      "written" : "Thank you for downloading our guide that will help you to know everything about your favorite application. This guide will provide you some tips to know how to get the application on your device and how to use it easily."
-    }
-  ]
+    ]
+  }
 }
