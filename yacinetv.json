@@ -39,8 +39,8 @@
       "applovin rewarded": "6405227d47f8fe55",
 	  
       "start Activity Inter": ".",
-      "start Activity Native": "facebook",
-      "start Activity Banner": ".",
+      "start Activity Native": ".",
+      "start Activity Banner": "facebook",
 	  
       "data Activity Inter": ".",
       "data Activity Native": ".",
@@ -64,8 +64,8 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "false",
-      "CPA image": "https://dadamou.github.io/poppy/cpa.png",
+      "show CPA": "true",
+      "CPA image": "https://dadamou.github.io/new-good/cpa.png",
       "CPA URL": "https://smrturl.co/a041404",
 	  
       "is app suspended": "false",
@@ -238,7 +238,7 @@
         "VIP": "true",
         "ID": "13",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "رابط البث المباشر ",
         "button text size": "28",
         "button URL": "https://smrturl.co/a041404"
