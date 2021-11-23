@@ -1,109 +1,248 @@
 {
-  "config" : {
-    "admob" : {
-      "admob_unit_id" : "",
-      "admob_banner_id" : "",
-      "admob_interstitial_id" : "",
-      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
-      "admob_rewarded_id" : ""
+  "json object": {
+    "data": {
+      "mopub initialize id": "920b6145fb1546cf8b5cf2ac34638bb7",
+      "mopub banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub native": "11a17b188668469fb0412708c3d16813",
+      "mopub interstitial": "24534e1901884e398f1253216226017e",
+      "mopub rewarded": "920b6145fb1546cf8b5cf2ac34638bb7",
+	  
+      "tapdaq banner": "default",
+      "tapdaq native": "default",
+      "tapdaq interstitial": "default",
+      "tapdaq rewarded": "default",
+      "tapdaq app key": "61182d0386c31c4e07c109a0",
+      "tapdaq client key": "7c263146-7e2b-4a30-b721-0e9dae35904f",
+	  
+      "admob banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob native": "ca-app-pub-3940256099942544/2247696110",
+      "admob interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "admob rewarded": "ca-app-pub-3940256099942544/5224354917",
+	  
+      "ironsource interstitial": "DefaultInterstitial",
+      "ironsource banner": "DefaultBanner",
+      "ironsource rewarded": "DefaultRewardedVideo",
+      "ironsource app key": "10418ab31",
+	  
+      "unity interstitial": "Interstitial_Android",
+      "unity banner": "Banner_Android",
+      "unity rewarded": "Rewarded_Android",
+      "unity app id": "4305873",
+	  
+      "facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  
+	  "applovin banner": "13482be8f771efc7",
+      "applovin interstitial": "37c0fd7e2939a3be",
+      "applovin rewarded": "6405227d47f8fe55",
+	  
+      "start Activity Inter": ".",
+      "start Activity Native": "facebook",
+      "start Activity Banner": ".",
+	  
+      "data Activity Inter": ".",
+      "data Activity Native": ".",
+      "data Activity Banner": ".",
+      "data Activity Rewarded": ".",
+	  
+      "guide Activity Banner": "facebook",
+      "guide Activity Native": ".",
+	  
+      "clicks to show ad in list": "3",
+      "ad position in list": "4",
+	  
+      "show faces rate dialog": "false",
+      "show faces rate": "false",
+	  
+      "clicks to stop showing banner ad": "1",
+      "time unit banner": "minute",
+      "time banner": "1",
+	  
+      "clicks to stop showing native ad": "1",
+      "time unit native": "second",
+      "time native": "40",
+	  
+      "show CPA": "false",
+      "CPA image": "https://dadamou.github.io/poppy/cpa.png",
+      "CPA URL": "https://smrturl.co/a041404",
+	  
+      "is app suspended": "false",
+      "update title": "A new update for this app",
+      "update message": "Update this app because this version has some issues PLEASE!Get a moment to Update the app and a review on the store about your favorite app.",
+      "update URL": "https://smrturl.co/a041404"
     },
-    
-    "max" : {
-      "max_banner_id" : "",
-      "max_interstitial_id" : "",
-      "max_native_id" : "",
-      "max_rewarded_id" : ""
-    },
-	
-	"mopub" : {
-      "mopub_banner_id" : "b195f8dd8ded45fe847ad89ed1d016da",
-      "mopub_interstitial_id" : "24534e1901884e398f1253216226017e",
-      "mopub_native_id" : "11a17b188668469fb0412708c3d16813",
-      "mopub_rewarded_id" : "920b6145fb1546cf8b5cf2ac34638bb7"
-    },
-    
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
-    "mode_ads_native" : "admob",
-    "mode_ads_rewarded" : "admob",
-    "one_signal_app_id" : "ca991988-439e-48a9-b14f-04a3ba8cf7d9",
-
-    "update" : {
-      "enable_update_closed" : true,
-      "update_action" : "https://play.google.com/store/apps/details?id=",
-      "update_msg" : "Update To Now Version",
-      "update_state" : false,
-      "update_action_text" : "Update",
-      "update_title" : "Update Now!"
-    },
-	
-	"cpa_activity" : {
-	   "cpabuild" : {
-        "cpabuild_offer_state" : false,
-        "cpabuild_offer_user_id" : "",
-        "cpabuild_offer_api_key" : "",
-        "cpabuild_offer_type" : "all"
-
+   "items": [
+      {
+        "image": "https://dadamou.github.io/new-good/matchtoday.png",
+        "title": "فرجة ممتعة",
+        "guide": "سوف يوفر لك مكوقع  افضل تجربة لمشاهدة المباريات اليومية فى جميع البطولات من خلال العمل على وضع لكم جميع التفاصيل لكل مباراة من خلال صفحة خاص بكل مباراة يتم توفير ليها القنوات الناقله للمباريات والمعلق عليه وتوفير المباريات لاغلب الدول العربية مع ضمان وضع اخر الاخبار الرياضية الاوروبية والعربية المحاليه منها والعالمية",
+        "guide 2": "اختر الجودة المناسبة لك باستعمال المشغل المناسب",
+        "VIP": "false",
+        "ID": "1",
+		
+        "show button": "true",
+        "button text": "الجودة المناسبة",
+        "button text size": "25",
+        "button URL": "https://smrturl.co/a041404"
       },
-      "ogads" : {
-        "ogads_offer_state" : false,
-        "ogads_offer_user_id" : "",
-        "ogads_offer_type" : "all"
-
+       {
+        "image": "https://dadamou.github.io/new-good/televi.png",
+        "title": "دوري أبطال أوروبا",
+        "guide": "تَستطيع ان تبحث عن اي مباراة داخل تطبيق ياسين كورة لايف بواسطة زر البحث اسفله  والذى تَستطيع استخدامه للوصول لاى مباراة لا تتواجد في الصفحة الضرورية للموضوع.اختر الجودة المناسبة لك باستعمال المشغل المناسب  (720p ; 480p ; 360p ; 240p) ",
+        "guide 2": "في حال لم يعمل النموذج يرجى الإتصال معنا على الفور عبرالتعاليق",
+        "VIP": "false",
+        "ID": "2",
+		
+        "show button": "true",
+        "button text": "بحث",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
       },
-      "local_offer" : {
-        "local_offer_state" : false
+       {
+        "image": "https://dadamou.github.io/new-good/yassinelive2.PNG",
+        "title": "دوري أبطال أوروبا",
+        "guide": "تَستطيع ان تبحث عن اي مباراة داخل تطبيق ياسين كورة لايف بواسطة زر البحث اسفله  والذى تَستطيع استخدامه للوصول لاى مباراة لا تتواجد في الصفحة الضرورية للموضوع.",
+        "guide 2": "في حال لم يعمل النموذج يرجى الإتصال معنا على الفور عبرالتعاليق",
+        "VIP": "false",
+        "ID": "3",
+		
+        "show button": "true",
+        "button text": "بحث",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
+      },
+       {
+        "image": "https://dadamou.github.io/new-good/regarder.png",
+        "title": "جميع المباريات",
+        "guide": "سوف يوفر لك مكوقع  افضل تجربة لمشاهدة المباريات اليومية فى جميع البطولات من خلال العمل على وضع لكم جميع التفاصيل لكل مباراة من خلال صفحة خاص بكل مباراة يتم توفير ليها القنوات الناقله للمباريات والمعلق عليه وتوفير المباريات لاغلب الدول العربية مع ضمان وضع اخر الاخبار الرياضية الاوروبية والعربية المحاليه منها والعالمية",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "false",
+        "ID": "4",
+		
+        "show button": "true",
+        "button text": "تحديث البث ",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/new-good/yassinelive2.png",
+        "title": "(720P)مشغل ",
+        "guide": "فرجة ممتعة . اختر الجودة المناسبة لك باستعمال المشغل المناسب  (720p ; 480p ; 360p ; 240p)",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "false",
+        "ID": "5",
+		
+        "show button": "true",
+        "button text": "تحديث البث ",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/new-good/yassinelive2.png",
+        "title": "مشغل (480P)",
+        "guide": "فرجة ممتعة . اختر الجودة المناسبة لك باستعمال المشغل المناسب  (720p ; 480p ; 360p ; 240p)",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "false",
+        "ID": "6",
+		
+        "show button": "true",
+        "button text": "تحديث البث ",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/new-good/yassinelive2.png",
+        "title": "مشغل (360P)",
+        "guide": "فرجة ممتعة . اختر الجودة المناسبة لك باستعمال المشغل المناسب  (720p ; 480p ; 360p ; 240p)",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "false",
+        "ID": "7",
+		
+        "show button": "true",
+        "button text": "تحديث البث ",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/new-good/yassinelive2.png",
+        "title": "مشغل (240P)",
+        "guide": "فرجة ممتعة . اختر الجودة المناسبة لك باستعمال المشغل المناسب  (720p ; 480p ; 360p ; 240p)",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "false",
+        "ID": "8",
+		
+        "show button": "true",
+        "button text": "تحديث البث ",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/new-good/yassinelive2.png",
+        "title": "مشغل (144P)",
+        "guide": "فرجة ممتعة . اختر الجودة المناسبة لك باستعمال المشغل المناسب  (720p ; 480p ; 360p ; 240p)",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "false",
+        "ID": "9",
+		
+        "show button": "true",
+        "button text": "تحديث البث ",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
+     },
+      {
+        "image": "https://dadamou.github.io/new-good/akhbar.png",
+        "title": "أخبار الاسبوع",
+        "guide": "تطبيق ياسين كورة لايف يرجب بكل الزوار و اتصالاتكم وتواصلكم معنا بخصوص اي شي مع في ياسين كورة لايف يتم توفير قدوة الاتصال هذا ليتم الإتصال معنا بكل سهولة إلا أن يفضل الإتصال بشأن احد تلك الامور ليتم الرد باسرع وقت جائز على الايميل المرسل.",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "false",
+        "ID": "10",
+		
+        "show button": "true",
+        "button text": "للإتصال بنا",
+        "button text size": "26",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/new-good/televi.png",
+        "title": "BIEN SPORT (144P)",
+        "guide": "<p>سوف يوفر لك تطبيقنا افضل تجربة لمشاهدة المباريات اليومية فى جميع البطولات من خلال العمل على وضع لكم جميع التفاصيل لكل مباراة من خلال صفحة خاص بكل مباراة يتم توفير ليها القنوات الناقله للمباريات والمعلق عليه وتوفير المباريات لاغلب الدول العربية مع ضمان وضع اخر الاخبار الرياضية الاوروبية والعربية المحاليه منها والعالمية</p><p><br></p><p>ياسين كورة لايف يعتبر تطبيقنا كورة لايف انه افضل تطبيق بقدم البث المباشر للمباريات بطريقة مثالية وممتازة وبدون تقطيع حيث كانت له الاقدمية في نقل المباريات بث مباشر لايف عبر سنوات كان ياسين كورة لايف &nbsp;يقدم البث المباشر لمباريات اليوم بجودة عالية ومن المعروف جدا ان سيرفرات ياسين كورة لايف هي من افضل السرفرات من البقية لانها تتميز بقدرات رائع تمكنها من نقل البث المباشر اون لاين بدون تقطيع وبجودات رائعة فائقة حتا وان كانت جودة الانتر نت ضعيفة استمر ياسين كورة لايف في نقل مباريات اليوم بث مباشر لمدة طويل وتميز انة يقوم بعملية بث مباشر مباريات اون لاين للبطولات المحلية والدولية وكان في اولويتها بطولة دوري ابطال اوروبا لماذا يفضل الكثير مشاهدة مباريات اليوم على ياسين كورة لايف.</p><p><br></p><p>تطبيق ياسين كورة لايف يرجب بكل الزوار و اتصالاتكم وتواصلكم معنا بخصوص اي شي مع في ياسين كورة لايف يتم توفير قدوة الاتصال هذا ليتم الإتصال معنا بكل سهولة إلا أن يفضل الإتصال بشأن احد تلك الامور ليتم الرد باسرع وقت جائز على الايميل المرسل.</p>",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "false",
+        "ID": "11",
+		
+        "show button": "true",
+        "button text": "رابط البث المباشر ",
+        "button text size": "28",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/new-good/regarder.png",
+        "title": "BIEN SPORT (144P)",
+        "guide": "<p>سوف يوفر لك تطبيقنا افضل تجربة لمشاهدة المباريات اليومية فى جميع البطولات من خلال العمل على وضع لكم جميع التفاصيل لكل مباراة من خلال صفحة خاص بكل مباراة يتم توفير ليها القنوات الناقله للمباريات والمعلق عليه وتوفير المباريات لاغلب الدول العربية مع ضمان وضع اخر الاخبار الرياضية الاوروبية والعربية المحاليه منها والعالمية</p><p><br></p><p>ياسين كورة لايف يعتبر تطبيقنا كورة لايف انه افضل تطبيق بقدم البث المباشر للمباريات بطريقة مثالية وممتازة وبدون تقطيع حيث كانت له الاقدمية في نقل المباريات بث مباشر لايف عبر سنوات كان ياسين كورة لايف &nbsp;يقدم البث المباشر لمباريات اليوم بجودة عالية ومن المعروف جدا ان سيرفرات ياسين كورة لايف هي من افضل السرفرات من البقية لانها تتميز بقدرات رائع تمكنها من نقل البث المباشر اون لاين بدون تقطيع وبجودات رائعة فائقة حتا وان كانت جودة الانتر نت ضعيفة استمر ياسين كورة لايف في نقل مباريات اليوم بث مباشر لمدة طويل وتميز انة يقوم بعملية بث مباشر مباريات اون لاين للبطولات المحلية والدولية وكان في اولويتها بطولة دوري ابطال اوروبا لماذا يفضل الكثير مشاهدة مباريات اليوم على ياسين كورة لايف.</p><p><br></p><p>تطبيق ياسين كورة لايف يرجب بكل الزوار و اتصالاتكم وتواصلكم معنا بخصوص اي شي مع في ياسين كورة لايف يتم توفير قدوة الاتصال هذا ليتم الإتصال معنا بكل سهولة إلا أن يفضل الإتصال بشأن احد تلك الامور ليتم الرد باسرع وقت جائز على الايميل المرسل.</p>",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "false",
+        "ID": "12",
+		
+        "show button": "true",
+        "button text": "رابط البث المباشر ",
+        "button text size": "28",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/new-good/televi.png",
+        "title": "من نحن - about",
+        "guide": "ياسين كورة لايف يعتبر موقع كورة لايف انه افضل موقع بقدم البث المباشر للمباريات بطريقة مثالية وممتازة وبدون تقطيع حيث كانت له الاقدمية في نقل المباريات بث مباشر لايف عبر سنوات كان ياسين كورة لايف  يقدم البث المباشر لمباريات اليوم بجودة عالية ومن المعروف جدا ان سيرفرات ياسين كورة لايف هي من افضل السرفرات من البقية لانها تتميز بقدرات رائع تمكنها من نقل البث المباشر اون لاين بدون تقطيع وبجودات رائعة فائقة حتا وان كانت جودة الانتر نت ضعيفة استمر ياسين كورة لايف في نقل مباريات اليوم بث مباشر لمدة طويل وتميز انة يقوم بعملية بث مباشر مباريات اون لاين للبطولات المحلية والدولية وكان في اولويتها بطولة دوري ابطال اوروبا لماذا يفضل الكثير مشاهدة مباريات اليوم على ياسين كورة لايف.",
+        "guide 2": "اذا توقف البث قم بالضغط على زر تحديث او انتقل الى مشغل آخر لمشاهدة البث المباشر وسوف يتم تحديث البث اول باول.",
+        "VIP": "true",
+        "ID": "13",
+		
+        "show button": "false",
+        "button text": "رابط البث المباشر ",
+        "button text size": "28",
+        "button URL": "https://smrturl.co/a041404"
       }
-	},
-	
-	"best_offers_activity" : {
-	    "ogads_app_install_state" : false,
-	    "local_offer_state" : false
-	}
-  },
-  "apps" : [
-    {
-      "id":"53173336",
-      "appName":"Test App",
-      "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
-      "appUrl":"https://www.google.com/",
-      "appState":true,
-      "payout":"1.20",
-      "appCountry":"all"
-      },
-      {
-      "id":"53173336",
-      "appName":"Test App",
-      "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
-      "appUrl":"https://www.google.com/",
-      "appState":true,
-      "payout":"1.10",
-      "appCountry":"all"
-    },
-    {
-      "id":"53173336",
-      "appName":"Test Offre",
-      "appIcon":"https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/test.png",
-      "appUrl":"https://www.google.com/",
-      "appState":true,
-      "payout":"1.10",
-      "appCountry":"all"
-    }
-  ],
-  "tips" : [
-      {
-      "id" : 0,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
-      "state" : "free",
-      "title" : "tips 1",
-      "written" : "Thank you for downloading our guide that will help you to know everything about your favorite application. This guide will provide you some tips to know how to get the application on your device and how to use it easily."
-    },
-    {
-      "id" : 1,
-      "imageURL" : "http://youuffo.com/data/photo/tips",
-      "state" : "free",
-      "title" : "tips 2",
-      "written" : "Thank you for downloading our guide that will help you to know everything about your favorite application. This guide will provide you some tips to know how to get the application on your device and how to use it easily."
-    }
-  ]
+    ]
+  }
 }
