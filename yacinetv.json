@@ -64,7 +64,7 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "true",
+      "show CPA": "false",
       "CPA image": "https://dadamou.github.io/new-good/cpa.png",
       "CPA URL": "https://smrturl.co/a041404",
 	  
