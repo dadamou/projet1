@@ -68,7 +68,7 @@
       "CPA image": "https://dadamou.github.io/new-good/cpa.png",
       "CPA URL": "https://smrturl.co/a041404",
 	  
-      "is app suspended": "true",
+      "is app suspended": "false",
       "update title": "التطبيق في حالة صيانة",
       "update message": "قم بزيارة الموقع الرسمي.  فرجة ممتعة",
       "update URL": "https://smrturl.co/o/239000/53212097?s1="
@@ -77,12 +77,12 @@
       {
         "image": "https://dadamou.github.io/new-good/matchtoday.png",
         "title": "فرجة ممتعة",
-        "guide": "سوف يوفر لك مكوقع  افضل تجربة لمشاهدة المباريات اليومية فى جميع البطولات من خلال العمل على وضع لكم جميع التفاصيل لكل مباراة من خلال صفحة خاص بكل مباراة يتم توفير ليها القنوات الناقله للمباريات والمعلق عليه وتوفير المباريات لاغلب الدول العربية مع ضمان وضع اخر الاخبار الرياضية الاوروبية والعربية المحاليه منها والعالمية",
-        "guide 2": "اختر الجودة المناسبة لك باستعمال المشغل المناسب",
+        "guide": "",
+        "guide 2": "",
         "VIP": "false",
         "ID": "1",
 		
-        "show button": "true",
+        "show button": "false",
         "button text": "الجودة المناسبة",
         "button text size": "25",
         "button URL": "https://smrturl.co/a041404"
